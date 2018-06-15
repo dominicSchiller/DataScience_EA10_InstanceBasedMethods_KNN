@@ -22,7 +22,7 @@ Exercise from the course Data Science at Beuth University of Applied Sciences
 >  you are finished!<br />
 >  Note: This is the only chance to implement a machine learning algorithm by hand and hence learn something from the ground up!<br /><br />
 >  2. In the logistic regression example, I gave you a new iris data:<br />
->  ***`4.8, 2.5, 5.3, 2.4`***<br />
+>  `4.8, 2.5, 5.3, 2.4`<br />
 >  Please classify this flower using KNN.
 >  <br /> Here is a good scikit example you can use:
 >  
@@ -32,9 +32,9 @@ Exercise from the course Data Science at Beuth University of Applied Sciences
 -----
 ### Solutions
 #### Task 1
-Please find my hand-implemented KNN classifier in the Python file [***`KNNClassifier.py`***](https://github.com/dominicSchiller/DataScience_EA10_InstanceBasedMethods_KNN/blob/develop/thb/datascience/ibm/KNNClassifier.py) from the Python-module *`thb.datascience.ibm`*<br />
-The usage of the custom KNN classifier is demonstrated on the Jupyter notebook [***`Custom_KNN.ipynb`***](https://github.com/dominicSchiller/DataScience_EA10_InstanceBasedMethods_KNN/blob/develop/Custom_KNN_Demo.ipynb) <br />
-or by the Python script [***`Custom_KNN_Demo.py`***](https://github.com/dominicSchiller/DataScience_EA10_InstanceBasedMethods_KNN/blob/develop/Custom_KNN_Demo.py)
+Please find my hand-implemented KNN classifier in the Python file [***KNNClassifier.py***](https://github.com/dominicSchiller/DataScience_EA10_InstanceBasedMethods_KNN/blob/develop/thb/datascience/ibm/KNNClassifier.py) from the Python-module `thb.datascience.ibm`<br />
+The usage of the custom KNN classifier is demonstrated on the Jupyter notebook [***Custom_KNN.ipynb***](https://github.com/dominicSchiller/DataScience_EA10_InstanceBasedMethods_KNN/blob/develop/Custom_KNN_Demo.ipynb) <br />
+or by the Python script [***Custom_KNN_Demo.py***](https://github.com/dominicSchiller/DataScience_EA10_InstanceBasedMethods_KNN/blob/develop/Custom_KNN_Demo.py)
 
 #### Task 2
-Please find my solution on the Iris classification using KNN via the python *sklearn* module on the Jupyter notebook [***`KNN_with_Sklearn.ipynb`***](https://github.com/dominicSchiller/DataScience_EA10_InstanceBasedMethods_KNN/blob/develop/KNN_with_Sklearn.ipynb)
+Please find my solution on the Iris classification using KNN via the python *sklearn* module on the Jupyter notebook [***KNN_with_Sklearn.ipynb***](https://github.com/dominicSchiller/DataScience_EA10_InstanceBasedMethods_KNN/blob/develop/KNN_with_Sklearn.ipynb)
